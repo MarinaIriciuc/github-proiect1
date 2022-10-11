@@ -7,3 +7,4 @@
 # git checkout numeBranch -> Schimba branch-ul de lucru
 # git pull - trage ultimile schimbari de pe server (GitHUB)
 # Acest fisier are un conflict
+# Am actualizt readme
