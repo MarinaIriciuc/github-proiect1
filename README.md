@@ -8,4 +8,4 @@
 # git pull - trage ultimile schimbari de pe server (GitHUB)
 # Acest fisier are un conflict
 # Am actualizt readme
-# Inca un conflict
+# Am actualizat readme din nou
